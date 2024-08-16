@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Laravel**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
