@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Web development | IWT**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **thotawattaosura@gmail.com**
   
